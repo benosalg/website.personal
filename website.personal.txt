@@ -1,0 +1,12 @@
+<!Doctype HTML>
+<HTML>
+<Head>
+<Title> My first web </title>
+</head>
+<body>
+<body  bgcolor ="light coral">
+<h1>My Activity during MCO</h1>
+<img src="pexels.jpg"
+
+</body>
+</html>
